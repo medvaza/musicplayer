@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">music2</string>
+<string name="http">HTTP</string>
+<string name="stream">stream</string>
+<string name="sd">sd card</string>
+<string name="uri">Internet</string>
+<string name="raw">device memory</string>
+<string name="pause">PASUE</string>
+<string name="resume">RESUME</string>
+<string name="stop">STOP</string>
+<string name="loop">REPLAY</string>
+<string name="backward">BACK</string>
+<string name="forward">FORWARD</string>
+<string name="info">INFORMATION</string>
+</resources>
